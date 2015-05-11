@@ -87,7 +87,7 @@ def testText():
     draw.text((10, 0), "Testing", (255, 200, 100, 255), font=font)
     return im
 
-from SSD1331 import *
-s = SSD1331()
-g = PILGFX(s)
-im = testText()
+#from SSD1331 import *
+#s = SSD1331()
+#g = PILGFX(s)
+#im = testText()
