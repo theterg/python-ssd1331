@@ -1,0 +1,4 @@
+*.pyc
+build/
+dist/
+SSD1331.egg-info/
